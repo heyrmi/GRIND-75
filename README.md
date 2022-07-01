@@ -8,3 +8,6 @@ Questions of GRIND-75
 - All links are provided in the notion template.
 
 ---
+
+Solutions in this repo are best to be run in Leetcode.
+Opening them in IDE will show errors (this is because of unimported collections).
