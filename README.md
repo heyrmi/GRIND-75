@@ -1,6 +1,6 @@
 # GRIND-75
 
-Questions of GRIND-75
+Questions of [GRIND-75](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=40&weeks=4)
 
 ---
 
